@@ -1,0 +1,6 @@
+- 👋Hi, I’m @lcade27
+- 👀 I’m interested in learning more about developing software and using Python to solve problems with applications. 
+- 🌱 I’m currently learning Python and about software development. I am also keen to learn new languages and tools to develop myself further.
+- 📫 You can reach me at lewiscade27@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I also have a background in Electrical Engineering, and enjoy watching football at the weekends.
